@@ -27,7 +27,7 @@ The ASMRB logo is trademark of the dyvers hands of Arne Saknussemm Memorial Revo
 
 ## Change History
 
-* 1.0.0 - Initial Fork
+* 1.1.0 - Initial Fork
   * Forked from FAE-SRD 1.0.2
   * Created branch to hold original FAE-SRD, renamed master .md, deleted converted files
   * Added ASMRB logo.
