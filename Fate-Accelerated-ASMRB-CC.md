@@ -1,10 +1,11 @@
-# Fate Accelerated Edition SRD (System Reference Document) #
+# Fate Accelerated Edition ASMRB Version
 
+![ASMRB Logo](./images/asmrb.gif)
 ![Powered by Fate](./images/poweredbyfatelight.svg)
 
-(c)2013 Evil Hat Productions, LLC. Refer to the licensing pages at [_www.faterpg.com/licensing/_](http://www.faterpg.com/licensing/) for details.
+## Copyright & Credits
 
-This is the System Reference Document for use with the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license. The following attribution must be provided in your text, wherever you put your own copyright, in the same size as your copyright text:
+Fate Accelerated Edition ASMRB Version (FAE-ASMRB) is intended to capture and share the house rules for the ASMRB.org Roleplaying Group's changes to the original **"Fate Accelerated Edition SRD (System Reference Document) Creative Commons Version"** as published by Evil Hat Productions, LLC. at [www.faterpg.com](http://www.faterpg.com/wp-content/uploads/2013/06/Fate-Accelerated-SRD-CC.html) as of 2013-06-11, as referenced by the **"Fate Accelerated Edition SRD (System Reference Document — Creative Commons Version) Converted to Markdown (GitHub-Style) Format"** git project at [github.com/ChristopherA/FAE-SRD](http://github.com/ChristopherA/FAE-SRD) hosted by [Christopher Allen - RPG.net](mailto:ChristopherA@RPG.net).
 
 This work is based on _Fate Core System_ and _Fate Accelerated Edition_ (found at [http://www.faterpg.com](http://www.faterpg.com)), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license .
 
@@ -12,8 +13,11 @@ Fate(tm) and Fate Dice(tm) are trademarks of Evil Hat Productions, LLC. The Powe
 
 The Fate Dice(tm) images and Four Actions icons are derived from the Fate Core font, (c)Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.
 
-_FAE-SRD_ markdown (GitHub-style) conversion and GitHub project hosting by Christopher Allen - RPGnet (github.com/ChristopherA). Christopher has no affiliation with Evil Hat Productions, LLC.
+The ASMRB logo is trademark of the dyvers hands of Arne Saknussemm Memorial Revolutionary Brigade and is used here with permission. It is  (c)2001 and licensed under a more restrictive [Creative Commons Attribution NonCommercial NoDerivatives ](http://creativecommons.org/licenses/by-nc-nd/4.0/). Please remove this logo from any derivative works.
 
+**FAE-ASMRB** is (c)2014 Christopher Allen, All Rights Reserved. Reference to other copyrighted material in no way constitutes a challenge to the respective copyright holders of that material. FAE-ASMRB is released in its entirety under the same [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) and [OGL](http://www.faterpg.com/licensing/licensing-fate-ogl/) licenses as the original FAE-SRD.
+
+Christopher Allen has no affiliation with Evil Hat Productions, LLC.
 
 # Get Started!
 
